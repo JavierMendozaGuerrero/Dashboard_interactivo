@@ -1,7 +1,9 @@
 # Proyecto Final – Visualización de Datos
 
-
 ![Vista general del dashboard](imagenes/captura1.png)
+
+
+
 
 **Autor:** Javier Mendoza Guerrero  
 **Grado:** Ingeniería Matemática e Inteligencia Artificial (iMAT)  
@@ -45,9 +47,6 @@ El dashboard consta de 4 pestañas principales:
 - Gráfico de barras interactivo con los 10 productos más vendidos.  
 - Gráfico de líneas con las ventas mensuales.  
 
-![Figura 3 – Top 10 productos más vendidos](imagenes/top10.png)  
-![Figura 4 – Ventas mensuales](imagenes/ventas_mensuales.png)  
-
 ---
 
 ### N2: Ventas por Tienda
@@ -55,19 +54,12 @@ El dashboard consta de 4 pestañas principales:
 - Gráfico interactivo con ventas anuales de la tienda seleccionada.  
 - Tabla resumen de productos en promoción.  
 
-![Figura 5 – Ventas anuales por tienda](imagenes/ventas_tienda.png)  
-![Figura 6 – Tabla de promociones](imagenes/promociones.png)  
-
 ---
 
 ### N3: Análisis Avanzado
 - Gráfico interactivo para analizar estacionalidad (ventas diarias, promociones, días festivos).  
 - Gráfico de burbujas que compara ventas promedio, productos en promoción y transacciones.  
 - Heatmap interactivo para explorar patrones de venta por día y hora.  
-
-![Figura 7 – Estacionalidad](imagenes/estacionalidad.png)  
-![Figura 8 – Gráfico de Burbujas](imagenes/burbujas.png)  
-![Figura 9 – Heatmap de Patrones de Venta](imagenes/heatmap.png)  
 
 ---
 
