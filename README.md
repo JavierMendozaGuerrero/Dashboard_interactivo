@@ -1,5 +1,8 @@
 # Proyecto Final – Visualización de Datos
 
+
+![Vista general del dashboard](imagenes/captura1.png)
+
 **Autor:** Javier Mendoza Guerrero  
 **Grado:** Ingeniería Matemática e Inteligencia Artificial (iMAT)  
 
